@@ -14,7 +14,7 @@
 
 a{
     text-decoration: none;
-    color: #F9FAF8;
+    color: #E5E7EB;
 }
 
 ul{
@@ -44,4 +44,8 @@ ul{
     font-size: 48px;
     font-weight: 900;
     color:#F9FAF8;
+}
+
+.hero-subtext{
+    
 }
