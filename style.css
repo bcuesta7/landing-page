@@ -2,6 +2,7 @@
     font-family: 'Roboto', sans-serif;
 }
 
+/*Header*/
 .header{
     background-color: #1F2937;
     color: #F9FAF8;
@@ -32,4 +33,15 @@ ul{
     font-weight: bold;
     margin: 0;
     padding: 0;
+}
+
+/*Hero*/
+.hero{
+    background-color: #1F2937;
+}
+
+.hero-title{
+    font-size: 48px;
+    font-weight: 900;
+    color:#F9FAF8;
 }
