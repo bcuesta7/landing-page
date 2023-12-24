@@ -92,6 +92,12 @@ img{
 
 .cards{
     display: flex;
+    justify-content: space-between;
+}
+
+.card{
+    width: 200px;
+    text-align: center;
 }
 
 .icon{
