@@ -94,11 +94,11 @@ img{
 .cards{
     display: flex;
     justify-content: center;
-    gap: 32px;
+    gap: 64px;
 }
 
 .card{
-    width: 200px;
+    width: 150px;
     text-align: center;
 }
 
