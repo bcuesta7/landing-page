@@ -152,6 +152,7 @@ img{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 104px;
 }
 
 .cta-title{
@@ -172,4 +173,15 @@ img{
     font-size: 18px;
     font-weight: 700;
     padding: 8px 32px;
+}
+
+
+/*Footer*/
+.footer{
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 96px;
 }
