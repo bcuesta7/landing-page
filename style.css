@@ -93,3 +93,8 @@ img{
 .cards{
     display: flex;
 }
+
+.icon{
+    width: 96px;
+    height: 96px;
+}
